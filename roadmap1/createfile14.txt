@@ -1,0 +1,7 @@
+Test file
+creating a content using the vim editor
+by using the vim command.
+to insert a content. use esc+i
+now savind and exiting
+using esc:wq
+that's all.

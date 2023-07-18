@@ -1,0 +1,7 @@
+Created a txt file with .txt extension
+Changed the permission as
+Owner as "RWE" - Read write execute
+Group user as "RW" - Read Write
+Any user as "R" - Read
+Done with the all the steps.
+Thank you 
